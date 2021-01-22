@@ -1,0 +1,19 @@
+{
+  "name": "super-parakeet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamiresharumi/super-parakeet.git"
+  },
+  "author": "tamiresharumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamiresharumi/super-parakeet/issues"
+  },
+  "homepage": "https://github.com/tamiresharumi/super-parakeet#readme"
+}

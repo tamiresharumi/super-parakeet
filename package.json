@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tamiresharumi/super-parakeet/issues"
   },
-  "homepage": "https://github.com/tamiresharumi/super-parakeet#readme"
+  "homepage": "https://github.com/tamiresharumi/super-parakeet#readme",
+  "dependencies": {
+    "aws-sdk": "^2.0.1"
+  }
 }

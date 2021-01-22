@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tamiresharumi/super-parakeet#readme",
   "dependencies": {
-    "aws-sdk": "^2.0.1"
+    "aws-sdk": "^2.814.0"
   }
 }
